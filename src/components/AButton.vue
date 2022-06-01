@@ -16,7 +16,7 @@ export default {
 
 <style scoped>
 button {
-  background: #42b983;
+  background: #b9427d;
   color: #fff;
   cursor: pointer;
   border: 0;
@@ -24,6 +24,6 @@ button {
   padding: 1em 1.5em;
 }
 button:hover {
-  background: #2f855a;
+  background: #852f5e;
 }
 </style>
